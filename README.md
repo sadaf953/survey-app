@@ -29,5 +29,3 @@ The Sanic Survey App is a web application built using the Sanic framework. It al
 ## Contributing
 Contributions are welcome! Please submit a pull request for any improvements or bug fixes.
 
-## License
-This project is licensed under the MIT License.
